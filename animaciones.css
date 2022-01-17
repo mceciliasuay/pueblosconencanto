@@ -1,0 +1,21 @@
+@keyframes arribaNormal{
+    from{
+        top:-100%
+    }to{
+        top:0;
+    }   
+}
+@keyframes izquierdaNormal{
+    from{
+        left:-100%;
+    }to{
+        left:0;
+    }   
+}
+@keyframes opacidad{
+    from{
+        opacity:0;
+    }to{
+        opacity:1;
+    }   
+}
